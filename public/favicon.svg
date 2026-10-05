@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F3E5AB" />
+      <stop offset="50%" stop-color="#D4AF37" />
+      <stop offset="100%" stop-color="#AA8022" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#080A0C"/>
+  <rect x="1.5" y="1.5" width="61" height="61" rx="12.5" fill="none" stroke="url(#goldGrad)" stroke-width="1.5" opacity="0.8"/>
+  <circle cx="32" cy="32" r="26" fill="none" stroke="#D4AF37" stroke-width="0.8" stroke-dasharray="2 2" opacity="0.4"/>
+  <!-- Luxury Monogram TV -->
+  <text x="32" y="39" font-family="'Playfair Display', Georgia, serif" font-size="24" font-weight="700" fill="url(#goldGrad)" text-anchor="middle" letter-spacing="1">TV</text>
+  <!-- Subtle star accent -->
+  <polygon points="32,11 33.2,14 36,14.8 33.2,15.6 32,18.5 30.8,15.6 28,14.8 30.8,14" fill="#F3E5AB"/>
+</svg>
